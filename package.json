@@ -4,16 +4,18 @@
     "description": "A template for HTML and CSS",
     "main": "index.html",
     "scripts": {
-      "start": "serve"
+        "start": "serve"
     },
     "keywords": [
-      "html",
-      "css"
+        "html",
+        "css"
     ],
     "author": "qadult0",
     "license": "MIT",
     "devDependencies": {
-      "serve": "11.2.0"
+        "serve": "11.2.0"
+    },
+    "dependencies": {
+        "start": "^5.1.0"
     }
-  }
-  
+}
